@@ -89,7 +89,7 @@ import {
         <Left>
           <Logo>EcomKart</Logo>
           <Desc>
-             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet quas ullam quam a beatae unde minus et commodi. Non maxime esse a molestiae? Dicta, blanditiis!
+              Welcome to EcomKart, the ultimate online destination for fashion enthusiasts. Discover the latest trends, timeless classics, and stylish accessories. With a curated selection of clothing from top brands, Ecomkart offers a seamless shopping experience, ensuring you look and feel your best with every purchase.
           </Desc>
           <SocialContainer>
             <SocialIcon color="3B5999">
